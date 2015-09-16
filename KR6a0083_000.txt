@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 應法經
+#+DATE: 2015-08-30 19:30:27.510495
+#+PROPERTY: JUAN 0
